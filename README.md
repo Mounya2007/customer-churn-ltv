@@ -7,9 +7,12 @@ calculates Customer Lifetime Value (LTV) to help marketing teams prioritize
 high-value retention campaigns.
 
 ##  Team Members
-- Rajarapu Dhanalakshmi (Team Leader)
-- Mounya
-- (Add other team members)
+- R Dhanalakshmi (Team Leader)
+- Ch Mounya
+- N Sathwika
+- L Divya
+- Sindhu
+
 
 ##  Dataset
 - **Source:** Telco Customer Churn Dataset (Kaggle)
